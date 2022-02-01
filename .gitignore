@@ -3,3 +3,5 @@
 doc/tags
 /.ropeproject/
 /.mypy_cache/
+# ignore commit message
+.gitcommit
